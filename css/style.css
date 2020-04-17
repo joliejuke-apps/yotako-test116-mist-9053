@@ -1,0 +1,41 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+}
+.web19201row0 {
+  position: relative;
+  display: flex;
+  margin-left: 27.916666666666668vw;
+  margin-top: 15.833333333333332vh;
+  width: 44.166666666666664vw;
+  height: 23.75vw
+}
+.style0 {
+  background-color: #005dff;
+  margin-left: 0;
+  width: 23.75vw;
+  height: 23.75vw;
+  flex-shrink: 0
+}
+.style1,
+.style2 {
+  position: relative;
+  flex-shrink: 0
+}
+.style1 {
+  display: flex;
+  margin-left: -1.1979166666666667vw;
+  flex-direction: column;
+  background-color: red;
+  margin-top: 11.875vw;
+  width: 21.614583333333332vw;
+  height: 21.614583333333332vw
+}
+.style2 {
+  background-color: #00ff19;
+  margin-left: 0;
+  margin-top: 2.8645833333333335vw;
+  width: 23.75vw;
+  height: 23.75vw
+}
